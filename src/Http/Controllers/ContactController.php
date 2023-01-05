@@ -1,12 +1,12 @@
 <?php
 
-namespace Bitfumes\Contact\Http\Controllers;
+namespace Araib\Contact\Http\Controllers;
 
 use Illuminate\Http\Request;
+use Araib\Contact\Models\Contact;
 use App\Http\Controllers\Controller;
-use Bitfumes\Contact\Mail\ContactMailable;
-use Bitfumes\Contact\Models\Contact;
 use Illuminate\Support\Facades\Mail;
+use Araib\Contact\Mail\ContactMailable;
 
 
 

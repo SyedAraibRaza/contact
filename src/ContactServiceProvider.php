@@ -1,6 +1,6 @@
 <?php
 
-namespace Bitfumes\Contact;
+namespace Araib\Contact;
 
 
 use Illuminate\Support\ServiceProvider;
