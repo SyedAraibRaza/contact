@@ -15,7 +15,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Araib\\Contact\\ContactcServiceProvider"
+                "Araib\\Contact\\ContactServiceProvider"
             ]
         }
     }
